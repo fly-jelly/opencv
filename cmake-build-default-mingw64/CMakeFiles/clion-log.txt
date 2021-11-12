@@ -1,0 +1,10 @@
+D:\software\CLion-2020.2.5\bin\cmake\win\bin\cmake.exe -G "CodeBlocks - MinGW Makefiles" D:\workspace\linux\demo_1
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV 3.4.10 in E:/jelly/ubuntu/opencv3.4.10/mingw_build/install/x64/mingw/lib
+-- You might need to add E:/jelly/ubuntu/opencv3.4.10/mingw_build/install/x64/mingw/bin to your PATH to be able to run your applications.
+opencv_calib3dopencv_coreopencv_dnnopencv_features2dopencv_flannopencv_highguiopencv_imgcodecsopencv_imgprocopencv_mlopencv_objdetectopencv_photoopencv_shapeopencv_stitchingopencv_superresopencv_videoopencv_videoioopencv_videostabopencv_arucoopencv_bgsegmopencv_bioinspiredopencv_ccalibopencv_datasetsopencv_dnn_objdetectopencv_dpmopencv_faceopencv_fuzzyopencv_hfsopencv_img_hashopencv_line_descriptoropencv_optflowopencv_phase_unwrappingopencv_plotopencv_regopencv_rgbdopencv_saliencyopencv_stereoopencv_structured_lightopencv_surface_matchingopencv_textopencv_trackingopencv_xfeatures2dopencv_ximgprocopencv_xobjdetectopencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/workspace/linux/demo_1/cmake-build-default-mingw64
